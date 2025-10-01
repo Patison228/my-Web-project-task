@@ -71,13 +71,13 @@
 
 .image-end {
     text-align: center;
-    margin: 500px 0; /* Еще больше отступ от предыдущего блока */
+    margin: 500px 0; 
 }
 
 .image-end img {
     display: block;
     margin: 0 auto;
-    max-width: 800px; /* Еще меньше */
+    max-width: 800px; 
     width: 50%;
     border: 3px solid #4fc3f7;
     border-radius: 12px;
@@ -97,4 +97,5 @@
 .page-footer p {
     margin: 0;
     font-size: 15px;
+
 }
